@@ -28,6 +28,9 @@ The "Work" section showcases my projects. Each project is presented as a card wi
 
 The footer contains the contact information for prospective employers to reach me.
 
+![Screenshot 2023-11-21 at 3 39 50 PM](https://github.com/p-iacone88/Portfolio_Project/assets/50248763/cbf08361-d8df-472a-9f45-8ef058e054ef)
+![Screenshot 2023-11-21 at 3 39 58 PM](https://github.com/p-iacone88/Portfolio_Project/assets/50248763/e10999b8-5e67-49e7-9fcd-be47113b83b8)
+
 ## Instructions for Development
 
 To view or work on this portfolio:
