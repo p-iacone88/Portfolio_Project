@@ -116,15 +116,15 @@ h2 {
 
 #first-card {
   width: 91%;
-  background-image: url(/assets/images/calculator.gif);
+  background-image: url(../images/calculator.gif);
 }
 
 #second-card {
-  background-image: url(/assets/images/pedal.webp);
+  background-image: url(../images/pedal.webp);
 }
 
 #third-card {
-  background-image: url(/assets/images/fbnotes.png);
+  background-image: url(../images/fbnotes.png);
 }
 
 #first-card:hover {
