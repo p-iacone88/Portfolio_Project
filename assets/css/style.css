@@ -75,7 +75,6 @@ body {
 
 .main-content {
   width: 60%;
-  /* background-color: red; */
   border-right: 4px solid #114880;
 }
 
@@ -116,19 +115,15 @@ h2 {
 
 #first-card {
   width: 91%;
-  background-image: url(../images/calculator.gif);
+  background-image: url(/assets/images/calculator.gif);
 }
 
 #second-card {
-  background-image: url(../images/pedal.webp);
+  background-image: url(/assets/images/pedal.webp);
 }
 
 #third-card {
-  background-image: url(../images/fbnotes.png);
-}
-
-#first-card:hover {
-  background-color: red;
+  background-image: url(/assets/images/fbnotes.png);
 }
 
 /* Card text styling */
